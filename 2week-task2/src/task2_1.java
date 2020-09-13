@@ -33,6 +33,7 @@ public class task2_1 {
 		else
 			{
 				System.out.println("잘못입력하였습니다.");
+				scan.close();
 				return;
 			}
 		
