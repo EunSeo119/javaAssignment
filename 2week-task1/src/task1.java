@@ -26,6 +26,6 @@ public class task1 {
 			System.out.println("두 원은 서로 안겹친다.");
 		
 		scanner.close();
-	}
+	} 
 
 }
