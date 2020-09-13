@@ -40,6 +40,6 @@ public class task2_2 {
 		}
 		System.out.println(n1+op+n2+"의 계산 결과는 "+result);
 		scan.close();
-	}
+	} 
 
 }
