@@ -39,6 +39,6 @@ public class task2_1 {
 		
 		System.out.println(n1+op+n2+"의 계산결과는 "+result);
 		scan.close();
-	} 
+	}
 
 }
